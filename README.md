@@ -3,6 +3,9 @@ TITLE: AWS Fargate Only EKS Cluster using Terraform
 DESCRIPTION: Fully automated infrastructure provisioning using AWS EKS fargate
 ---
 
+![Screenshot_2022-07-04_at_11 27 59 (1)](https://user-images.githubusercontent.com/28266120/185071365-614211b3-accd-49ec-b902-807ba6fc82e8.png)
+
+
 ## Step-01: Introduction
 1. Create EKS Cluster to run on AWS Fargate
 2. Run AWS Load Balancer Controller on AWS Fargate
